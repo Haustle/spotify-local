@@ -3,7 +3,7 @@
 // requirements:
     // link (youtube link, or .mp3 file) : string
     // song title : string
-    // artist name : String[]
+    // artist name : String[] put artist or producer here
 // other
     // cover : string
     // album : string
@@ -11,15 +11,6 @@
     // genre : string
 
  const songs = [
-    {
-        link: null, // req
-        cover: null,
-        title: null, // req
-        artist: [null], // req
-        album: null,
-        trackNum: null,
-        genre: null
-    },
     {
         link: "https://youtu.be/FmdbshoVkX4",
         cover: 'https://i1.sndcdn.com/artworks-000635319700-i0bjpg-t500x500.jpg',
