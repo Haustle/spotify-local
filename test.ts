@@ -1,5 +1,9 @@
-const path = require('path');
-const fs = require('fs');
+// const path = require('path');
+// const fs = require('fs');
+
+
+
+
 const ytdl = require('ytdl-core');
 
 const url = "https://www.youtube.com/watch?v=DXeZidTLqPg";
